@@ -22,7 +22,7 @@ Your users should be able to:
 - See hover and focus states for interactive elements
 
 ## Live Preview
-[Join our Slack community](https://www.frontendmentor.io/slack)
+[Click Here to View Live Preview](https://naomit9.github.io/product-preview-card/)
 
 ## Where to find everything
 
